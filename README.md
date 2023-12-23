@@ -5,8 +5,9 @@
 <p>We apologize for the inconvenience caused by the current issue with our account creation feature, which is currently undergoing maintenance. Please use the following login credentials to access your account until the problem is resolved:</p>
 <div>       
 <div>Username: aksr2003@gmail.com</div>
-<div>Password: 12346578</div>
+<div>Password: 12346578</div>  
 </div>
+</br>
 <p>These credentials are temporary and are meant to be used only until the account creation feature is fully functional again. We appreciate your understanding and patience during this maintenance period.</p>
 </div>
 </br>
