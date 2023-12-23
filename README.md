@@ -1,4 +1,14 @@
 <a href = "https://bhartiyakanoon.vercel.app/">Bhartiya Kanoon</a>
+
+<h2 style="underline">Bharatiya KanoonTemporary Login Credentials:</h2>
+
+<p>We apologize for the inconvenience caused by the current issue with our account creation feature, which is currently undergoing maintenance. Please use the following login credentials to access your account until the problem is resolved:
+
+Username: [Temporary Username]
+Password: [Temporary Password]
+These credentials are temporary and are meant to be used only until the account creation feature is fully functional again. We appreciate your understanding and patience during this maintenance period.</p>
+
+</br>
 <p align="center">
  
 ![WhatsApp Image 2023-11-05 at 14 06 55_a2f42e0a](https://github.com/AKSRathor/PortfolioBackend/assets/86844932/3aabf3f6-d3f7-44d8-9467-9a2f5955fd5a)       
