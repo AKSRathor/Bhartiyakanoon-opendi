@@ -1,8 +1,6 @@
 <a href = "https://bhartiyakanoon.vercel.app/">Bhartiya Kanoon deployed link</a>
 
 <h2 style="underline">Bharatiya KanoonTemporary Login Credentials:</h2>
-
-patch-2
 <p>
 We apologize for the inconvenience caused by the current issue with our account creation feature, which is currently undergoing maintenance. Please use the following login credentials to access your account until the problem is resolved:
 </p>
@@ -13,7 +11,7 @@ Password: 12345678
 <p>
 These credentials are temporary and are meant to be used only until the account creation feature is fully functional again. We appreciate your understanding and patience during this maintenance period.
 </p>
-=======
+</hr>
 <p>We apologize for the inconvenience caused by the current issue with our account creation feature, which is currently undergoing maintenance. Please use the following login credentials to access your account until the problem is resolved:
 
 </br>
