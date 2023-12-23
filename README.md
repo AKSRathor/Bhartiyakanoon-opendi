@@ -9,6 +9,7 @@
 </div>
 <p>These credentials are temporary and are meant to be used only until the account creation feature is fully functional again. We appreciate your understanding and patience during this maintenance period.</p>
 </div>
+</br>
 <p align="center">
 ![WhatsApp Image 2023-11-05 at 14 06 55_a2f42e0a](https://github.com/AKSRathor/PortfolioBackend/assets/86844932/3aabf3f6-d3f7-44d8-9467-9a2f5955fd5a)       
 </p>
