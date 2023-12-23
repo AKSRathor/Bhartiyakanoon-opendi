@@ -1,4 +1,4 @@
-<a href = "https://github.com/AKSRathor/Bhartiyakanoon-opendi">Site Link</a>
+<a href = "https://bhartiyakanoon.vercel.app/">Bhartiya Kanoon</a>
 <p align="center">
  
 ![WhatsApp Image 2023-11-05 at 14 06 55_a2f42e0a](https://github.com/AKSRathor/PortfolioBackend/assets/86844932/3aabf3f6-d3f7-44d8-9467-9a2f5955fd5a)       
@@ -16,7 +16,7 @@
  </div>
 
 ## YOUTUBE EXPLANATION
-- <a href="https://youtu.be/V901Tgo7y6I?feature=shared">LINK</a>
+- <a href="https://youtu.be/V901Tgo7y6I?feature=shared">Video Link</a>
 
 ## Problem Statement -
  - Designing a blockchain-driven electronic vault for storing legal records.
